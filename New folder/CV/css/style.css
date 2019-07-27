@@ -1,0 +1,358 @@
+*{margin: 0; padding: 0;}
+.maincontent {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.left_content {
+    width: 37%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 70px;
+
+}
+
+.right_content {
+    width: 45%;
+    float: right;
+    padding-right: 40px;
+    
+}
+
+.profilepicture {
+    width: 79%;
+    border-radius: 100px;
+    border: 1px solid #3d6cb0;
+    padding: 8px;
+}
+
+.surname {
+    width: 100%;
+    min-height: 300px;
+
+}
+
+.propic {
+    margin: 0 auto;
+    margin-left: 36%;
+    width: 170px;
+    height: 188px;
+}
+
+
+
+
+.names h1:first-child {
+    margin-left: 22%;
+    margin-top: 18px;
+    font-family: arial;
+    font-weight: normal;
+}
+.names h2{
+   margin-left: 33%;
+   font-family: arial; 
+   font-size: 34px;
+    font-weight: bold;
+}
+.names p{
+    font-family: arial;
+    margin-left: 28%;
+    font-weight: bolder;
+}
+
+.fullicon {
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+
+.icon {
+    width: 100%;
+}
+
+.profile {
+    margin-top: 159px;
+    overflow: hidden;
+}
+
+.title {
+    font-family: arial;
+    font-size: 15px;
+    float: left;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+.profile_line {
+    float: left;
+    width: 168px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
+
+.pdes {
+    float: left;
+    margin-top: 4%;
+    text-align: justify;
+    font-size: 13px;
+}
+.pdes span{
+    font-weight: bold;
+}
+
+.pline {
+    width: 100%;
+    height: 4px;
+
+}
+
+.Cdes {
+    float: left;
+    margin-top: 6%;
+    text-align: justify;
+    font-size: 13px;
+    clear: both;
+    width: 100%;
+    
+}
+
+.cline {
+    width: 100%;
+}
+
+.contact {
+    overflow: hidden;
+    width: 104%;
+    margin-top: 15%;
+}
+
+.c_left {
+    float: left;
+    color: #3d6cb0;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    
+}
+.c_left p{
+    margin-bottom: 21px;
+}
+
+.c_right {
+    margin-left: 30%;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: arial;
+}
+.c_right p{
+    margin-bottom: 21px;
+}
+
+.skills {
+    overflow: hidden;
+    width: 104%;
+    margin-top: 15%;
+}
+
+.contact_line {
+    float: left;
+    width: 150px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
+
+.skills_line {
+    float: left;
+    width: 192px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
+
+.sline {
+    width: 100%;
+    height: 4px;
+}
+
+.s_des {
+    float: left;
+    margin-top: 6%;
+    text-align: justify;
+    font-size: 13px;
+    clear: both;
+    width: 100%;
+    padding: 48px;
+}
+.s_des p{
+    font-size: 20px;
+    font-family: arial;
+    margin: 13px 116px;
+}
+.s_des p:nth-child(3) {
+    font-size: 20px;
+    font-family: arial;
+    margin: 13px 107px;
+}
+.s_des p:nth-child(5) {
+    font-size: 20px;
+    font-family: arial;
+    margin: 13px 116px;
+}
+.s_des p:nth-child(7) {
+    font-size: 20px;
+    font-family: arial;
+    margin: 13px 82px;
+}
+
+.dots {
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+}
+
+.Eline {
+    width: 100%;
+    height: 4px;
+}
+
+.edu_des {
+    float: left;
+    margin-top: 6%;
+    text-align: justify;
+    font-size: 13px;
+    clear: both;
+    width: 100%;
+    
+}
+
+.education {
+    overflow: hidden;
+    width: 104%;
+    margin-top: 15%;
+}
+
+.edu_line {
+    float: left;
+    width: 227px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
+
+.right_blackdots {
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+.blackdots {
+    width: 100%;
+}
+
+.Enames {
+        margin-left: 40px;
+}
+.Enames h1:first-child{
+    font-family: arial;
+    font-size: 18px;
+    color: #3f6fb6;
+    margin-bottom: 16px;
+
+}
+.Enames h1:nth-child(2){
+    font-family: arial;
+    font-size: 18px;
+    margin-bottom: 7px;
+
+    
+}
+.Enames h1 span{
+    font-weight: normal;
+    color: black;
+}
+.Enames p{
+    margin-bottom: 6px;
+
+}
+
+.experience {
+    overflow: hidden;
+    width: 104%;
+    margin-top: 15%;
+}
+
+.ex_line {
+    float: left;
+    width: 209px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
+
+.EXnames {
+    margin-left: 40px;
+}
+.EXnames h1:first-child{
+    font-family: arial;
+    font-size: 18px;
+    color: #3f6fb6;
+    margin-bottom: 16px;
+}
+.EXnames h1:nth-child(2){
+    font-family: arial;
+    font-size: 18px;
+    margin-bottom: 7px;
+
+    
+}
+.EXnames h1 span{
+    font-weight: normal;
+    color: black;
+}
+.EXnames p{
+    margin-bottom: 6px;
+
+}
+
+
+
+.software {
+    overflow: hidden;
+    width: 104%;
+    margin-top: 16%;
+}
+
+.softdes {
+    float: left;
+    margin-top: 6%;
+    text-align: justify;
+    font-size: 13px;
+    clear: both;
+    width: 100%;
+    
+}
+
+.soft_left {
+    float: left;
+    width: 45%
+}
+
+.soft_right {
+    float: right;
+    width: 45%;
+}
+
+.softnames {
+    font-size: 20px;
+    font-family: arial;
+    margin: 19px 0px;
+}
+
+.skillbar {
+    width: 245px;
+    height: 21px;
+}
+
+.software_line {
+    float: left;
+    width: 233px;
+    margin-top: 4.5%;
+    margin-left: 11px;
+}
